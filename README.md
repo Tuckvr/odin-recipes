@@ -1,3 +1,3 @@
 A mock HTML showcasing recipes
 
-Live Site: https://github.com/Tuckvr/odin-recipes.git
+Live Site: https://tuckvr.github.io/odin-recipes/
