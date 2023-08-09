@@ -9,9 +9,10 @@
     color:cornflowerblue;
 }
 .pizza {
-    margin: 0px auto;
+margin-left: 20px;    
 }
 .alfredo {
+    align-content: center;
     margin: 0px auto;
 }
 .cobbsalad {
