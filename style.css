@@ -10,12 +10,14 @@
     margin-bottom: 30px;
 }
 .pizza {
-margin-left: 20px;    
+    align-content: left;
+    margin-left: auto;    
 }
 .alfredo {
     align-content: center;
-    margin: 0px auto;
+    margin: auto;
 }
 .cobbsalad {
-    margin: 0px auto;
+    align-content: right;
+    margin: auto;
 }
