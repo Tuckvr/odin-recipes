@@ -8,6 +8,7 @@
     font-weight: bold;
     color:cornflowerblue;
     margin-bottom: 30px;
+    display: flex;
 }
 .pizza {
     align-content: left;
