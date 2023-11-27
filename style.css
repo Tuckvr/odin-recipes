@@ -12,13 +12,16 @@
 }
 .pizza {
     align-content: left;
-    margin-left: auto;    
+    margin-left: auto;
+    flex: auto; 
 }
 .alfredo {
     align-content: center;
     margin: auto;
+    flex: auto;
 }
 .cobbsalad {
     align-content: right;
     margin: auto;
+    flex: auto;
 }
